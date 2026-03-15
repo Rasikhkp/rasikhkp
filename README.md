@@ -3,8 +3,6 @@
 Developer interested in building practical systems and learning how things work under the hood.  
 Currently exploring backend development, real-time systems, and infrastructure.
 
----
-
 ## ⚙️ Tech
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -17,16 +15,12 @@ Currently exploring backend development, real-time systems, and infrastructure.
 ![Caddy](https://img.shields.io/badge/Caddy-075AFF?style=for-the-badge&logo=caddyserver&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
----
-
 ## 🚧 Building
 
 - ERP system for a pest control company  
 - Real-time todo app (WebSockets)  
 - Personal budget tracker  
 - Rust experiments  
-
----
 
 ## 📊 Stats
 
