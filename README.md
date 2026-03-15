@@ -20,7 +20,7 @@ PostgreSQL • Docker • Linux • Caddy • Cloudflare
 
 ![activity](https://github-readme-activity-graph.vercel.app/graph?username=rasikhkp)
 
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rasikhkp\&layout=compact)
+![streak](https://streak-stats.demolab.com/?user=rasikhkp&include_all_commits=true)
 
 
 <!--
